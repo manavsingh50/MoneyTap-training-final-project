@@ -41,6 +41,7 @@ public class CustomerServiceApplication {
 			"/webjars/**",
 			"/customer/authenticate",
 			"/customer/{id}",
+			"/customer/",
 			"/beneficiary/details/{id}"
 	};
 
